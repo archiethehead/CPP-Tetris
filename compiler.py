@@ -1,4 +1,3 @@
 import os
-
-os.system(r'clang++ Tetris.c++ -o Tetris.exe  -lwinmm')
+os.system(r'g++ -g *.c++ -o Tetris.exe -lwinmm -static -static-libgcc -static-libstdc++ -pthread')
 i = input("Compiled")

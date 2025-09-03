@@ -562,7 +562,7 @@ class board {
         fourth.init(".......R...R..RR",'R');
         fifth.init(".........ZZ.ZZ..",'Z');
         sixth.init("........QQ...QQ.",'Q');
-        seventh.init(".........D..DDD.",'D');
+        seventh.init("........DDD..D..",'D');
         
 
 
